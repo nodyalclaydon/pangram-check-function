@@ -21,3 +21,4 @@ function isPangram(string) {
 }
 
 isPangram(stringTwo)
+isPangram(stringOne)
